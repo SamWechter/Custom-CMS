@@ -8,5 +8,5 @@ Requirements for this project included:
 	- An admin panel to update, change, or add new content
 	- Automatically generated RSS feeds based on newly added content
 	- Functionality to load and parse classmates' RSS feeds
-	- A contact page that visitors can use to automatically email me without the need to open an email client
+	- A contact page that visitors can use to automatically email me
 	- The creation and use of PHP classes
