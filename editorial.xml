@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<editorial>
+	 <image>sam.jpg</image>
+	 <content>Welcome to my news website! This site was created to satisfy the requirements of project 1 of Professor Dean Ganskop's Server-Side Programming class at the Rochester Institute of Technology. It contains a content management system that I created and all pages are generated dynamically from a template through the use of PHP. 
+My name is Sam Wechter and I am a third year New Media Interactive Development student at the Rochester Institute of Technology. I have been focusing my course load on web and mobile application development and also know a fair amount about graphic design and both 2D and 3D animation. I am currently working with Appture LLC, a Rochester-based tech startup that is focused on creating innovative mobile applications. We are currently planning on going through the RIT business incubator this summer and are accepting applications from experienced programmers and graphic designers. If we are accepted into the RIT startup program we will offer RIT co-op credit with guaranteed salaries.
+	 </content>
+</editorial>

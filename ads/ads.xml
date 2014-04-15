@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advertisements>
+  <advertisement selected="yes">
+    <title>Dead Space 3</title>
+    <uri>dead_space_3_banner.jpg</uri>
+  </advertisement>
+  <advertisement selected="yes">
+    <title>Far Cry 3: Blood Dragon</title>
+    <uri>fc3_blood_dragon_ad.jpg</uri>
+  </advertisement>
+  <advertisement selected="no">
+    <title>FTL: Faster Than Light</title>
+    <uri>ftl_banner.jpg</uri>
+  </advertisement>
+  <advertisement selected="no">
+    <title>Nuka Cola</title>
+    <uri>nuka_cola_ad.jpg</uri>
+  </advertisement>
+  <advertisement selected="yes">
+    <title>Pulp Fiction</title>
+    <uri>pulp_fiction_ad.jpg</uri>
+  </advertisement>
+  <advertisement selected="yes">
+    <title>Planetside 2</title>
+    <uri>planetside_2_banner.jpg</uri>
+  </advertisement>
+</advertisements>

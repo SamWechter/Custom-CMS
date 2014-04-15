@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sam Wechter's 539 Project 2 RSS 2.0 Feed</title>
+    <link>http://people.rit.edu/~saw7456/539/Project2/index.php</link>
+    <description>This is my RSS 2.0 feed for news articles in my 539 project 2 content management system.</description>
+    <lastBuildDate>Fri, 19 Apr 2013 21:27:26 -0400</lastBuildDate>
+    <language>en-us</language>
+    <item>
+      <title>ab</title>
+      <description>cd</description>
+      <pubDate>Thu, 18 Apr 2013 18:32:34 -0400</pubDate>
+    </item>
+    <item>
+      <title>ab</title>
+      <description>cd</description>
+      <pubDate>Thu, 18 Apr 2013 18:32:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>ab</title>
+      <description>cd</description>
+      <pubDate>Thu, 18 Apr 2013 18:32:37 -0400</pubDate>
+    </item>
+    <item>
+      <title>ab</title>
+      <description>cd</description>
+      <pubDate>Thu, 18 Apr 2013 18:32:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>ab</title>
+      <description>cd</description>
+      <pubDate>Thu, 18 Apr 2013 18:32:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>ab</title>
+      <description>cd</description>
+      <pubDate>Thu, 18 Apr 2013 18:33:08 -0400</pubDate>
+    </item>
+    <item>
+      <title>aa</title>
+      <description>bb</description>
+      <pubDate>Fri, 19 Apr 2013 19:38:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>aa</title>
+      <description>bb</description>
+      <pubDate>Fri, 19 Apr 2013 19:49:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <description>testing stuff!</description>
+      <pubDate>Fri, 19 Apr 2013 21:26:49 -0400</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <description>testing stuff!</description>
+      <pubDate>Fri, 19 Apr 2013 21:27:26 -0400</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+  <news>
+    <student selected="no">
+      <first>Aamir</first>
+      <last>Ahmadhussain</last>
+      <url>
+		  http://people.rit.edu/~aka6367/739/project2/project2.rss
+		  </url>
+    </student>
+    <student selected="no">
+      <first>Alexander</first>
+      <last>Glica</last>
+      <url>
+	 http://people.rit.edu/~alg7860/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Ankita</first>
+      <last>Kadu</last>
+      <url>
+	 http://people.rit.edu/~aak5219/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Chris</first>
+      <last>Fiorito</last>
+      <url>
+	 http://www.chrisfiorito.com/539/proj/2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Conner</first>
+      <last>Fraser</last>
+      <url>
+	 http://people.rit.edu/~cff7979/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Connor</first>
+      <last>Vanderpool</last>
+      <url>
+	 http://people.rit.edu/~cjv7484/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Fnu</first>
+      <last>Basrizal</last>
+      <url>
+	 http://people.rit.edu/~fxb3717/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Gaurav</first>
+      <last>Chandwani</last>
+      <url>
+	 http://people.rit.edu/~gpc9628/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Grace</first>
+      <last>Cortright</last>
+      <url>
+	 http://people.rit.edu/~gxc4231/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Harpreet</first>
+      <last>Khanduja</last>
+      <url>
+	 http://people.rit.edu/~hsk5004/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Hassandeep</first>
+      <last>Sidhu</last>
+      <url>
+	 http://people.rit.edu/~hxs6516/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Jacky</first>
+      <last>Bhojwani</last>
+      <url>
+	 http://people.rit.edu/~jib9336/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Jay</first>
+      <last>Davis</last>
+      <url>
+	 http://people.rit.edu/~jkd4079/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>John</first>
+      <last>Kennedy</last>
+      <url>
+	 http://people.rit.edu/~jhk8459/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Joe</first>
+      <last>Pagano</last>
+      <url>
+	 http://people.rit.edu/~jjp3582/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Kate</first>
+      <last>Dickens</last>
+      <url>
+	 http://people.rit.edu/~kjd1073/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Kevin</first>
+      <last>Stanley</last>
+      <url>
+	 http://people.rit.edu/~kms6845/539/projects/02/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Marc</first>
+      <last>Mehlenbacher</last>
+      <url>
+	 http://people.rit.edu/~mlm1034/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="yes">
+      <first>Mike</first>
+      <last>Blout</last>
+      <url>
+	 http://people.rit.edu/~msb8983/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Mike</first>
+      <last>Congdon</last>
+      <url>
+	 http://people.rit.edu/~mac8461/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Nandita</first>
+      <last>Jaiswal</last>
+      <url>
+	 http://people.rit.edu/~nxj3261/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Nate</first>
+      <last>Buchar</last>
+      <url>
+	 http://people.rit.edu/~nbb6687/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Nate</first>
+      <last>Kierpiec</last>
+      <url>
+	 http://people.rit.edu/~njk3054/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Poorva</first>
+      <last>Jain</last>
+      <url>
+	 http://people.rit.edu/~pxj2419/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Prateek</first>
+      <last>Kumar</last>
+      <url>
+	 http://people.rit.edu/~pxk6979/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Randy</first>
+      <last>Dix</last>
+      <url>
+	 http://people.rit.edu/~rrd6125/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Samuel</first>
+      <last>Sandoval</last>
+      <url>
+	 http://people.rit.edu/~sbs4261/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Sam</first>
+      <last>Wechter</last>
+      <url>
+	 http://people.rit.edu/~saw7456/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Shivam</first>
+      <last>Tanna</last>
+      <url>
+	 http://people.rit.edu/~sjt1380/739/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Miya</first>
+      <last>Hlynchuk</last>
+      <url>
+	 http://people.rit.edu/~sxh4381/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Vlad</first>
+      <last>Ionescu</last>
+      <url>
+	 http://people.rit.edu/~vxi6514/539/project2/project2.rss
+	 </url>
+    </student>
+    <student selected="no">
+      <first>Zyad</first>
+      <last>Alissa</last>
+      <url>
+	 http://people.rit.edu/~zaa7564/739/project2/project2.rss
+	 </url>
+    </student>
+  </news>
+  <web>
+    <choice selected="yes">
+      <name>Daily Dilbert</name>
+      <url>
+		  http://feeds.feedburner.com/DilbertDailyStrip?format=xml
+		  </url>
+    </choice>
+    <choice selected="yes">
+      <name>Geek News Central</name>
+      <url>http://www.geeknewscentral.com/index.xml</url>
+    </choice>
+    <choice selected="yes">
+      <name>SlashDot</name>
+      <url>http://rss.slashdot.org/Slashdot/slashdot</url>
+    </choice>
+    <choice selected="no">
+      <name>Geek.com Gadgets Feed</name>
+      <url>http://www.geek.com/articles/gadgets/feed/</url>
+      <tag name="title" itemnumber="1"/>
+      <tag name="link" itemnumber="0"/>
+      <tag name="comments" itemnumber="0"/>
+    </choice>
+  </web>
+</services>

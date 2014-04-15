@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banners>
+  <banner selected="yes">
+    <name>Banner 1 (Gray)</name>
+    <uri>img_banner-placeholder.gif</uri>
+    <views>63</views>
+  </banner>
+  <banner selected="yes">
+    <name>Banner 2 (Red)</name>
+    <uri>placeholder-banner.png</uri>
+    <views>63</views>
+  </banner>
+  <banner selected="yes">
+    <name>Banner 3 (White)</name>
+    <uri>top-banner-ad-2.gif</uri>
+    <views>62</views>
+  </banner>
+</banners>

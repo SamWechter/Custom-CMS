@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sam Wechter's 539 Project 2 RSS 2.0 Feed</title>
+    <link>http://people.rit.edu/~saw7456/539/Project2/index.php</link>
+    <description>This is my RSS 2.0 feed for news articles in my 539 project 2 content management system.</description>
+    <lastBuildDate>Sun, 21 Apr 2013 23:49:54 -0400</lastBuildDate>
+    <language>en-us</language>
+    <item>
+      <title>Project 2 Done!</title>
+      <description>I'm finally done with project 2! Woohoo!</description>
+      <pubDate>Sun, 21 Apr 2013 23:49:54 -0400</pubDate>
+    </item>
+    <item>
+      <title>Many many updates!</title>
+      <description>I'm done with setting up the advertisements page and its associated admin section now. Additionally, styling has been adjusted across multiple pages to make the site look better overall. I'm now working on a banner maintenance section on the admin page to allow admins to select what banners will be shown in the rotation.</description>
+      <pubDate>Sun, 21 Apr 2013 20:30:46 -0400</pubDate>
+    </item>
+    <item>
+      <title>Admin feed selection done and advertisements are on the way!</title>
+      <description>I'm done with the core requirements for the project now. I'm working on setting up an advertisements page now with the appropriate controls on the admin page. Weighted banners are on the agenda next after that.</description>
+      <pubDate>Sat, 20 Apr 2013 22:06:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Permalinking done!</title>
+      <description>I'm finally done adding and testing permalinking. If it breaks for whatever reason I also made a permalink reset tool to remake the article pages and their permalinks.</description>
+      <pubDate>Sat, 20 Apr 2013 00:21:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Article Permalinking</title>
+      <description>I'm working on setting up article permalinks now.</description>
+      <pubDate>Fri, 19 Apr 2013 22:31:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>RSS Feed Debugging Completed</title>
+      <description>I'm finished debugging my news RSS feed now. Parse away!</description>
+      <pubDate>Fri, 19 Apr 2013 22:27:15 -0400</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <description>testing RSS feed generation</description>
+      <pubDate>Fri, 19 Apr 2013 22:23:17 -0400</pubDate>
+    </item>
+    <item>
+      <title>Project Submitted!</title>
+      <description>I am submitting this project now. Hopefully I'll get an A!</description>
+      <pubDate>22:31:37 03-29-2013</pubDate>
+    </item>
+    <item>
+      <title>Appture is hiring!</title>
+      <description>Appture LLC, a Rochester-based tech startup, is looking for experienced web and mobile application developers! We are in the process of talking with RIT about giving co-op credit over the summer and have applied for a position at the RIT business incubator. Please leave me a message through the Contact page if you'd like more information.</description>
+      <pubDate>22:10:53 03-29-2013</pubDate>
+    </item>
+    <item>
+      <title>Commentacular!</title>
+      <description>I'm going back through all of my PHP code now to add comments and change the spacing to enhance readability. PHP: Now 50% more headache-free!</description>
+      <pubDate>22:07:39 03-29-2013</pubDate>
+    </item>
+  </channel>
+</rss>

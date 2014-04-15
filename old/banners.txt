@@ -1,0 +1,3 @@
+top-banner-ad-2.gif|241|1
+img_banner-placeholder.gif|241|1
+placeholder-banner.png|241|1
