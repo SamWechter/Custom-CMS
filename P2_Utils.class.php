@@ -63,7 +63,8 @@ class P2_utils {
 	 /* parse_news_items($tmp_dom, $news_article_array, $article_index, $articles_per_page)
 	 * DESCRIPTION:
 	 * 			Parses an array of news items into html elements containing the news articles
-	 * 				then adds the elements to the DOM
+	 * 				then adds the elements to the DOM. 
+	 *			NOTE: Permalinking is currently not functioning properly.
 	 * INPUTS:
 	 * 			$tmp_dom						The DOM object to which new html elements are added
 	 * 			$news_article_array		The array of news articles to be parsed
@@ -72,7 +73,7 @@ class P2_utils {
 	 * OUTPUTS:
 	 * 			Returns an array containing the lines from news.txt
 	*/
-	function parse_news_items2($tmp_dom, $news_article_xml, $article_index, $articles_per_page) {
+	/function parse_news_items2($tmp_dom, $news_article_xml, $article_index, $articles_per_page) {
 		 $div_array = array();
 		 $news_item_nodelist = $news_article_xml->getElementsByTagName("item");
 		 for($i = $article_index; $i > ($article_index - $articles_per_page); $i--) {
@@ -82,15 +83,15 @@ class P2_utils {
 					$news_datetime = $current_item->getElementsByTagName("pubDate")->item(0)->nodeValue;
 					$news_title = $current_item->getElementsByTagName("title")->item(0)->nodeValue;
 					$news_text = $current_item->getElementsByTagName("content")->item(0)->nodeValue;
-					$news_permalink = $current_item->getElementsByTagName("link")->item(0)->nodeValue;
+					//$news_permalink = $current_item->getElementsByTagName("link")->item(0)->nodeValue;
 					$article_div = $tmp_dom->createElement("div");
 					$article_div->setAttribute("class","articleDiv");
 					$article_title = $tmp_dom->createElement("h2");
-					$article_title_permalink = $tmp_dom->createElement("a");
-					$article_title_permalink->setAttribute("href",$news_permalink);
+					//$article_title_permalink = $tmp_dom->createElement("a");
+					//$article_title_permalink->setAttribute("href",$news_permalink);
 					$article_title_text_node = $tmp_dom->createTextNode($news_title);
-					$article_title_permalink->appendChild($article_title_text_node);
-					$article_title->appendChild($article_title_permalink);
+					//$article_title_permalink->appendChild($article_title_text_node);
+					//$article_title->appendChild($article_title_permalink);
 					$article_div->appendChild($article_title);
 					$article_date = $tmp_dom->createElement("p");
 					$article_date->setAttribute("class","newsDate");
@@ -166,14 +167,16 @@ class P2_utils {
 	 }
 	 /* make_article_page($articleIndex,$title,$pubDate,$description)
 	  * DESCRIPTION:
-	  * 			Creates a new article PHP page that the article's permalink will direct to
+	  * 			Creates a new article PHP page that the article's permalink will direct to.
+	  *				This function is deprecated because I've realized since originally completing the project
+	  * 			 that this is not the proper approach to creating article pages and permalinking.
 	  * INPUTS:
 	  * 			$articleIndex				The article's index in the list of articles
 	  * 			$title						The div which logo and banner images are added to
 	  * 			$pubDate						The date at which the article was published
 	  * 			$description				The article's description
 	 */
-	 function make_article_page($articleIndex,$title,$pubDate,$description) {
+	 /*function make_article_page($articleIndex,$title,$pubDate,$description) {
 		  $article_html = get_template();
 		  $dom = new DOMDocument();
 		  // Creates a new string containing all of the PHP code necessary for a new article PHP page
@@ -220,7 +223,7 @@ class P2_utils {
 		  file_put_contents($article_URI,$domHTML);
 		  // Changes the article's permissions so it can be viewed
 		  chmod($article_URI, 0644);
-	 }
+	 }*/
 	 /* generate_text_element($whatDom,$whatContainer,$whatElement,$whatText)
 	  * DESCRIPTION:
 	  * 			Generates an element of the specified type containing the specified text

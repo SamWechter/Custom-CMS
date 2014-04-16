@@ -7,6 +7,6 @@ Requirements for this project included:
 	- A PHP templating system
 	- An admin panel to update, change, or add new content
 	- Automatically generated RSS feeds based on newly added content
-	- Functionality to load and parse classmates' RSS feeds
+	- Functionality to load and parse classmates' and other RSS feeds
 	- A contact page that visitors can use to automatically email me
 	- The creation and use of PHP classes
